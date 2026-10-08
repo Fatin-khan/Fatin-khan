@@ -3,7 +3,6 @@
 <table width="100%">
 <tr>
 <td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · fatin-khan</sub></p>
 <h1>Fatin Khan</h1>
 <h2>Software Engineer</h2>
 <p>Mainly a software systems architect. Currently doing bachelor's in software engineering at Zhengzhou University</p>
