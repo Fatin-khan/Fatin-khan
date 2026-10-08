@@ -8,7 +8,7 @@
 <p>Mainly a software systems architect. Currently doing bachelor's in software engineering at Zhengzhou University</p>
 <p><strong>● Building and sharing work in public</strong></p>
 <p><sub>Based in Shenzhen</sub></p>
-<p><a href="https://github.com/fatin-khan">GitHub</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/khanfatin">Website</a></p>
+<p><a href="https://github.com/fatin-khan">GitHub</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/khanfatin">Linkedin</a></p>
 </td>
 <td width="36%" valign="middle" align="center">
 <img src="https://avatars.githubusercontent.com/u/136224731?u=37835d2d623ca0a4583889cd81a90b7ac896128c&amp;v=4" width="180" alt="Fatin Khan GitHub avatar" />
