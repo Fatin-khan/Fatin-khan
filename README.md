@@ -4,8 +4,8 @@
 <tr>
 <td width="64%" valign="middle">
 <h1>Fatin Khan</h1>
-<h2>Software Engineer</h2>
-<p>Mainly a software systems architect. Currently doing bachelor's in software engineering at Zhengzhou University</p>
+<h2>Systems Engineer</h2>
+<p>Mainly a Software Systems architect. Currently doing bachelor's in software engineering at Zhengzhou University</p>
 <p><strong>● Building and sharing work in public</strong></p>
 <p><sub>Based in Shenzhen</sub></p>
 <p><a href="https://github.com/fatin-khan">GitHub</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/khanfatin">Linkedin</a></p>
@@ -21,13 +21,13 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Full-stack engineer · Jupyter Notebook · Python · JavaScript</p></td>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Systems Enigineer · Jupyter Notebook · Python · JavaScript</p></td>
 <td width="33%" valign="top"><h3>Public proof</h3><p>4 repositories · 0 stars</p></td>
 <td width="33%" valign="top"><h3>Momentum</h3><p>21 contributions · 7 active days</p></td>
 </tr>
 </table>
 
-<p><sub>I'm Fatin khan, a software systems architect. Currently doing Bachelor's in Software engineering at Zhengzhou University.</sub></p>
+<p><sub>I'm Fatin khan, a Systems Enigneer . Currently doing Bachelor's in Software engineering at Zhengzhou University.</sub></p>
 
 <h2>Proof at a glance</h2>
 
